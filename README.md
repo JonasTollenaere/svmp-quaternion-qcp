@@ -18,9 +18,15 @@ See more in [CMakeLists.txt](CMakeLists.txt).
 
 ## CMake targets
 
-- ConvexQuaternionQCP and ConvexQuaternionQCPInverse: Run a QCP model for a single problem instance in a convex container.
-- ConvexQuaternionQCPBenchmark and ConvexQuaternionQCPInverseBenchmark: Run the models on a complete benchmark suite of single volume maximisation instances.
-- ConcaveQuaternionQCP: Run a QCP model for a single problem instance in a concave container
-- ConcaveQuaternionQCPBenchmark: Run the model on a complete benchmark suite of single volume maximisation instances.
-- VisualizeConcavities: Visualizes the concavities of a concave container
-- VisualizeSymmetry: Visualization of symmetry breaking planes
+- `ConvexQuaternionQCP` and `ConvexQuaternionQCPInverse`:\
+Run a QCP model for a single problem instance in a convex container.
+- `ConvexQuaternionQCPBenchmark` and `ConvexQuaternionQCPInverseBenchmark`:\
+Run the models on a complete benchmark suite of single volume maximisation instances.
+- `ConcaveQuaternionQCP`:\
+Run a QCP model for a single problem instance in a concave container
+- `ConcaveQuaternionQCPBenchmark`:\
+Run the model on a complete benchmark suite of single volume maximisation instances.
+- `VisualizeConcavities`:\
+Visualizes the concavities of a concave container
+- `VisualizeSymmetry`:\
+Visualization of symmetry breaking planes

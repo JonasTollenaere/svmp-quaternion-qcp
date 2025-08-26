@@ -21,8 +21,8 @@ add_compile_definitions(GLM_ENABLE_EXPERIMENTAL)
 set(MESHCORE_BUILD_DEMOS OFF)
 include(FetchContent)
 FetchContent_Declare(MeshCore
-        GIT_REPOSITORY git@github.com:JonasTollenaere/MeshCore.git
-        GIT_TAG        main
+        GIT_REPOSITORY https://github.com/JonasTollenaere/MeshCore.git
+        GIT_TAG        v0.1.3
 )
 FetchContent_MakeAvailable(MeshCore)
 
