@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Quaternion-based formulations for volume maximisation problems"
+message: "If you use this software, please cite the published article for which it was developed."
+url: "https://github.com/JonasTollenaere/svmp-quaternion-qcp"
+date-released: 2025-09-11
+preferred-citation:
+  type: article
+  authors:
+  - given-names: Jonas
+    family-names: Tollenaere
+    email: jonas.tollenaere@kuleuven.be
+    affiliation: KU Leuven
+    orcid: 'https://orcid.org/0000-0003-4404-6409'
+  - given-names: Tony
+    family-names: Wauters
+    affiliation: KU Leuven
+    orcid: 'https://orcid.org/0000-0002-1014-6340'
+  journal: "Journal of Combinatorial Optimization"
+  doi: "10.1007/s10878-025-01351-x"
+  pages: 22
+  year: 2025
+  title: Quaternion-based formulations for volume maximisation problems
+  volume: 50
+  number: 2
